@@ -1,0 +1,9 @@
+x-vue-echarts{display:flex;flex-direction:column;width:100%;height:100%;min-width:0}
+.vue-echarts-inner{flex-grow:1;min-width:0}
+.topTwenty{
+    display:flex;
+    flex-direction:column;
+    width:100%;
+    height:100%;
+    min-width:0
+}
